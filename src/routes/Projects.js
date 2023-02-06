@@ -52,7 +52,7 @@ const Projects = (props) => {
                 <div class="card-body p-4">
                   <br/>
                   <h4 class="card-title text-center">Yum Drop</h4><br/>
-                  <p class="card-text">The platform is designed using HTML and CSS, providing a visually appealing interface and a fast and responsive user experience. Yum Drop aims to provide a convenient and reliable solution for users to order food from their favorite restaurants, without having to leave the comfort of their homes.</p>
+                  <p class="card-text">The platform is designed using HTML and CSS, providing a visually appealing interface and a fast and responsive user experience. Yum Drop aims to provide a convenient, reliable solution for users to order food from their favorite restaurants, without having to leave the comfort of their homes.</p>
                   <br/><p className="text-center"><Link className="btn-outline p-2 px-4 text-decoration-none fw-semibold" to="/yum-drop">Read More </Link></p>
                 </div>
               </div>
