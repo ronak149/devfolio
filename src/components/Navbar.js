@@ -66,9 +66,6 @@ export const Nav = (props) => {
                   <Fade left duration={2000} delay={250}><BubblyLink to="/skills"><button className="text-reset border-0 bg-transparent" data-bs-dismiss="offcanvas"> SKILLS </button></BubblyLink></Fade>
                 </li>
                 <li class="list-group-item border-0 m-2 w-50 mb-3" style={activeTheme}>
-                  <Fade right duration={2000} delay={250}><BubblyLink to="/experience"><button className="text-reset border-0 bg-transparent" data-bs-dismiss="offcanvas"> EXPERIENCE </button></BubblyLink></Fade>
-                </li>
-                <li class="list-group-item border-0 m-2 w-50 mb-3" style={activeTheme}>
                   <Fade left duration={2000} delay={250}><BubblyLink to="/contact"><button className="text-reset border-0 bg-transparent" data-bs-dismiss="offcanvas"> CONTACT ME </button></BubblyLink></Fade>
                 </li>
               </ul>

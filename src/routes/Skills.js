@@ -79,7 +79,7 @@ const Skills = (props) => {
                                 <Flip left duration={2000} delay={2500}><div className='card mb-2 bg-gradient shadow p-2 px-4 mx-3 w-auto border-secondary border-opacity-50' style={activeTheme}>
                                     <p className='text-center pb-1 m-0 p-0'><i class=" devicon-redux-original" style={{ fontSize: '3.5rem' }}></i></p>
                                     <div className='card-body p-0 m-0'>
-                                        <p className='card-title p-0 m-0 f-5 fw-semibold text-center'>REACT</p>
+                                        <p className='card-title p-0 m-0 f-5 fw-semibold text-center'>REDUX</p>
                                     </div>
                                 </div></Flip>
                             </div>
