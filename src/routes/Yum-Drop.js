@@ -18,7 +18,7 @@ export default function YumDrop(props) {
         <Fade top duration={2000}>
           <div className="row m-0 p-0 card shadow-lg bg-gradient" style={activeTheme}>
             <div className="row">
-            <div className="col-8 p-md-5 m-0">
+            <div className="col-md-8 p-md-5 m-0">
              <div className="" style={activeTheme}>
                 <div className="p-2">
                     <img src="./yum-drop.png" class="bg-gradient border-secondary border-opacity-50 card-img-top img-flid p-2" alt="Project-1" style={activeTheme}/>
@@ -31,7 +31,7 @@ export default function YumDrop(props) {
               </div>
 
             </div>
-            <div className="col-4 p-md-4  m-0 bg-gradient" style={activeTheme}>
+            <div className="col-md-4 p-md-4  m-0 bg-gradient" style={activeTheme}>
                 <h5>Key Features:</h5> <br/>
                 <ul>
                     <li><p><b>Restaurant listing: </b> Menu browsing: The platform provides a visually appealing interface for users to browse menus, view photos and descriptions of each dish, and select their desired items.</p></li>

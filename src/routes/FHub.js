@@ -18,7 +18,7 @@ export default function FHub(props) {
         <Fade top duration={2000}>
           <div className="row m-0 p-0 card shadow-lg bg-gradient" style={activeTheme}>
             <div className="row">
-            <div className="col-8 px-md-5 py-3 m-0">
+            <div className="col-md-8 px-md-5 py-3 m-0">
              <div className="" style={activeTheme}>
                 <div className="p-2">
                     <img src="./fhub.png" class="bg-gradient border-secondary border-opacity-50 card-img-top img-flid p-2" alt="Project-1" style={activeTheme}/>
@@ -31,7 +31,7 @@ export default function FHub(props) {
               </div>
 
             </div>
-            <div className="col-4 px-md-4 py-3 m-0 bg-gradient" style={activeTheme}>
+            <div className="col-md-4 px-md-4 py-3 m-0 bg-gradient" style={activeTheme}>
                 <h5>Key Features:</h5> <br/>
                 <ul>
                     <li><p><b>User authentication:</b> Users can sign up and log in securely to the platform.</p></li>
